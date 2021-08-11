@@ -13,8 +13,6 @@ Features :
 
 2. Statistical testing and 'Goodness of fit' : Hypothesis testing using Chi-squared and visual representation of benford analysis for evaluation purposes
 
-3. Painting the tape analysis : Using the posted daily volume of each stock, examine and test dataset for "Painting the tape" manipulation. This is where the price of a stock is manipulated by inflating volume on that day. This is characterised by rapid changes in volume over a period of time.
 
-V2 Planned features :
-
-- Benfords analysis of second leading digit
+Plots :
+![image](https://user-images.githubusercontent.com/24480156/129102076-89aaa40f-8b11-4461-9972-3754971bc77b.png)
